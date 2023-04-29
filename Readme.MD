@@ -1,6 +1,6 @@
 # Field Validation with iFrame
 
-## See Live Preview : [Click Here](https://main--symphonious-bombolone-2b01ab.netlify.app/)
+## See in Action : [Click Here](https://main--symphonious-bombolone-2b01ab.netlify.app/)
 
 ## Demo Recording :
 
