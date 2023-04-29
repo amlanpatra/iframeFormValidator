@@ -2,8 +2,6 @@
 
 ## See Live Preview : [Click Here](https://main--symphonious-bombolone-2b01ab.netlify.app/)
 
-## .
-
 ## Demo Recording :
 
 https://user-images.githubusercontent.com/37045880/235282693-5b330e8c-22cb-4dad-8a69-5feb9779ce90.mov
